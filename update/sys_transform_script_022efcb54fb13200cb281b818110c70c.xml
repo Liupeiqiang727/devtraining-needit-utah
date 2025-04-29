@@ -26,4 +26,15 @@ if (action == 'insert')
         <sys_updated_on>2017-03-29 21:02:18</sys_updated_on>
         <when>onBefore</when>
     </sys_transform_script>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>022efcb54fb13200cb281b818110c70c</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-29 01:44:28</sys_created_on>
+        <sys_id>12f5100483996210033ec1d6feaad329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-29 01:44:28</sys_updated_on>
+        <table>sys_transform_script</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
