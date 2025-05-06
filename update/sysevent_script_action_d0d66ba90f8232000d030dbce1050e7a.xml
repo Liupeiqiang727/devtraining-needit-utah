@@ -27,4 +27,15 @@ current.update();]]></script>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-11 01:17:02</sys_updated_on>
     </sysevent_script_action>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>d0d66ba90f8232000d030dbce1050e7a</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-29 05:37:01</sys_created_on>
+        <sys_id>743b01c0839d6210033ec1d6feaad348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-29 05:37:01</sys_updated_on>
+        <table>sysevent_script_action</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
